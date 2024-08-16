@@ -37,7 +37,7 @@
 [![Breaking Bark][product-screenshot]](https://d4fgames.com/project/soft-mini-golf)
 
 ### Built With
-* [Unity3D](https://unity.com)
+* [Unity3D](https://unity.com). Version **2022.3.38f1**.
 
 ## Getting Started
 This is the documentation of the game Soft Mini Golf.
@@ -53,16 +53,24 @@ Download the project.
 * 
 
 ### Level Design
-* [EN] 
+* 
 
 ### Sounds
 * Main Theme: 
 
-### Plugins
+### Assets & Plugins
+* 3D Stylized Animated Dogs Kit: https://assetstore.unity.com/packages/3d/characters/animals/mammals/3d-stylized-animated-dogs-kit-284699
+* Simple Town Lite - Cartoon Assets: https://assetstore.unity.com/packages/3d/environments/simple-town-lite-cartoon-assets-43480
+* CITY package: https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224
+* Delivery Vehicles Pack: https://assetstore.unity.com/packages/3d/vehicles/land/delivery-vehicles-pack-55528
+* Simple Sky - Cartoon assets: https://assetstore.unity.com/packages/3d/environments/simple-sky-cartoon-assets-42373
+* Free chibi cat: https://assetstore.unity.com/packages/3d/characters/animals/mammals/free-chibi-cat-165490
+* LowPoly Environment Pack: https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
+* Starter Pack - Synty POLYGON - Stylized Low Poly 3D Art: https://assetstore.unity.com/packages/essentials/tutorial-projects/starter-pack-synty-polygon-stylized-low-poly-3d-art-156819
 * LocalizationService: https://github.com/suncube/LocalizationService/blob/master/README.md
 
 ## Todo
-* [EN] 
+*  
 
 ## Contributing
 Made by D4F Games

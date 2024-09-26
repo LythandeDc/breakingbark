@@ -69,3 +69,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/_BreakingBark/Scenes/TestScene.meta
+Assets/_BreakingBark/Scenes/TestScene/LightingData.asset
+Assets/_BreakingBark/Scenes/TestScene/LightingData.asset.meta
+Assets/_BreakingBark/Scenes/TestScene/ReflectionProbe-0.exr
+Assets/_BreakingBark/Scenes/TestScene/ReflectionProbe-0.exr.meta
